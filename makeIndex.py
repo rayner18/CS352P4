@@ -15,6 +15,7 @@ import re
 ################################################################
 def createIndex(fileName) :
 
+
     # creates list of lines of file
     lineList = open(fileName).readlines()
 
